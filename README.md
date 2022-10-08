@@ -30,4 +30,4 @@ mp_restartgame 1;
 
 ## Launch Options
 
-`-novid -tickrate 128 +fps_max 0 -worldwide`
+`-novid -tickrate 128 +fps_max 0 -worldwide -allow_third_party_software`
